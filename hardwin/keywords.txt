@@ -1,0 +1,4 @@
+flashLed        KEYWORD2
+usec2cm         KEYWORD2
+EEPROM_write    KEYWORD2
+EEPROM_read     KEYWORD2
