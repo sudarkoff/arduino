@@ -1,4 +1,3 @@
-#include <WProgram.h>
 #include <hardwin.h>
 
 namespace hardwin {
